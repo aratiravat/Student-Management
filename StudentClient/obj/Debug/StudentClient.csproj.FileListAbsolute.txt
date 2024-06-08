@@ -1,0 +1,15 @@
+C:\ARATI\collage\sem-5\WAD\StudentClient\bin\Debug\StudentClient.exe.config
+C:\ARATI\collage\sem-5\WAD\StudentClient\bin\Debug\StudentClient.exe
+C:\ARATI\collage\sem-5\WAD\StudentClient\bin\Debug\StudentClient.pdb
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.csproj.AssemblyReference.cache
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.AddA.resources
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.Attend.resources
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.firstPage.resources
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.Form1.resources
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.Form2.resources
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.Form3.resources
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.Properties.Resources.resources
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.csproj.GenerateResource.cache
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.csproj.CoreCompileInputs.cache
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.exe
+C:\ARATI\collage\sem-5\WAD\StudentClient\obj\Debug\StudentClient.pdb
