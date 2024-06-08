@@ -1,0 +1,7 @@
+C:\ARATI\collage\sem-5\WAD\Student\bin\Debug\Student.dll.config
+C:\ARATI\collage\sem-5\WAD\Student\bin\Debug\Student.dll
+C:\ARATI\collage\sem-5\WAD\Student\bin\Debug\Student.pdb
+C:\ARATI\collage\sem-5\WAD\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\ARATI\collage\sem-5\WAD\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\ARATI\collage\sem-5\WAD\Student\obj\Debug\Student.dll
+C:\ARATI\collage\sem-5\WAD\Student\obj\Debug\Student.pdb
