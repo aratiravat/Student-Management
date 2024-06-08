@@ -1,0 +1,11 @@
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\bin\Debug\StuHostConsole.exe.config
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\bin\Debug\StuHostConsole.exe
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\bin\Debug\StuHostConsole.pdb
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\bin\Debug\Student.dll
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\bin\Debug\Student.pdb
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\bin\Debug\Student.dll.config
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\obj\Debug\StuHostConsole.csproj.AssemblyReference.cache
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\obj\Debug\StuHostConsole.csproj.CoreCompileInputs.cache
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\obj\Debug\StuHostConsole.csproj.CopyComplete
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\obj\Debug\StuHostConsole.exe
+C:\ARATI\collage\sem-5\WAD\StuHostConsole\obj\Debug\StuHostConsole.pdb
